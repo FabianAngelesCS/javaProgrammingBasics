@@ -13,11 +13,12 @@ public class TareaPractica {
         futbolista.age = 36;
         futbolista.altura = 1.70;
 
-        String generoMusica = "Dance";
+        String generoMusica = "clasica";
         String mensaje = " me gusta el genero de musica, ";
 
 
-        System.out.println("Hola me llamo " + futbolista.name + mensaje + generoMusica);
+        System.out.println("Hola me llamo " + futbolista.name +
+                " y"+ mensaje + generoMusica);
 
 
     }
