@@ -10,10 +10,8 @@ public class Ejercicio1NumeroMayor {
 
         int numeroMayor = numeros[0];
         for (int numero : numeros){
-            if (numeroMayor < numero){
+            if (numeroMayor < numero)
                 numeroMayor = numero;
-
-            }
         }
         System.out.println(" el numero mayor es: "+numeroMayor);
     }

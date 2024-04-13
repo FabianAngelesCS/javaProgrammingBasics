@@ -19,7 +19,6 @@ public class Ejercicio3Reversa {
         }
         System.out.println("La palabra escrita al reves queda asi: " + textoInvertido);
     }
-
     public static void main(String[] args) {
         leerReversa();
     }
