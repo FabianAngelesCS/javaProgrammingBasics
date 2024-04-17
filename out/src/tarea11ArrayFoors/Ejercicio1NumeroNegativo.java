@@ -1,4 +1,4 @@
-package tarea10ArrayFoors;
+package tarea11ArrayFoors;
 
 public class Ejercicio1NumeroNegativo {
 

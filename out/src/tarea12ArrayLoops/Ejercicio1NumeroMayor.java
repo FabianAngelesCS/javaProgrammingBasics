@@ -1,6 +1,4 @@
-package tarea11ArrayLoops;
-
-import java.util.Arrays;
+package tarea12ArrayLoops;
 
 public class Ejercicio1NumeroMayor {
 

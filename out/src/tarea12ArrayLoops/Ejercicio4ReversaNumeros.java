@@ -1,4 +1,4 @@
-package tarea11ArrayLoops;
+package tarea12ArrayLoops;
 
 import java.util.Arrays;
 import java.util.Collections;

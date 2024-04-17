@@ -1,4 +1,4 @@
-package tarea11ArrayLoops;
+package tarea12ArrayLoops;
 
 public class Ejercicio3NumerosImpares {
 

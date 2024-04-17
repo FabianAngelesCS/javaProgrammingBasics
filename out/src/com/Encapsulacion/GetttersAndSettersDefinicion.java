@@ -1,6 +1,6 @@
 package com.Encapsulacion;
 
-public class GetttersAndSetters {
+public class GetttersAndSettersDefinicion {
 
     /*
 
@@ -53,4 +53,5 @@ getters y setters. Esto permite acceder y modificar estos atributos de manera co
 de la clase.
 
      */
+
 }

@@ -6,8 +6,8 @@ public class tareaPractica {
 
         //Division de numeros, uno debe ser flotante si se quiere resultado mas exato con decimales.
         float numeroPanes = 10;
-        int numeroNiños = 3;
-        System.out.println(numeroPanes/numeroNiños);
+        int numeroNinos = 3;
+        System.out.println(numeroPanes/numeroNinos);
 
         //variable con numero ramdon divido entre 0
         //Esta division no es pósible y lanzara por consola una acepcion e interrumpira la ejecucion del programa.
