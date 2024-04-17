@@ -6,7 +6,7 @@ public class JavaLenguajeTipeado {
 
   -----¿POR QUE JAVA ES UN LENGUAJE TIPEADO?----
 
-Java es un lenguaje de programación tipeado o "typed language" porque requiere que todas las variables y expresione
+Java es un lenguaje de programación tipeado o "typed language" porque requiere que todas las com.variables y expresione
 tengan un tipo de dato específico asociado a ellas. Esto significa que en Java, cada variable debe ser declarada con
 un tipo de dato explícito que determine qué tipo de valores puede contener y qué operaciones se pueden realizar con
 ellos.
@@ -19,7 +19,7 @@ Al ser un lenguaje tipeado, Java verifica los tipos de datos en tiempo de compil
  que evita errores comunes como sumar un número entero con una cadena de texto.
 
 Claridad y legibilidad del código:
-Al especificar explícitamente los tipos de datos de las variables, el código se vuelve más claro y legible. Esto
+Al especificar explícitamente los tipos de datos de las com.variables, el código se vuelve más claro y legible. Esto
 facilita la comprensión del código tanto para los desarrolladores que lo escriben como para los que lo mantienen
 en el futuro.
 

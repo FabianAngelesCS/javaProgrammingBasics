@@ -4,7 +4,7 @@ public class VariablesStaticas {
 
     //variable compartida por todas las instancias de la clase
     //Se puede acceder sin necesidad de crear un objeto de la clase
-    //Se les asigna un valor determnaso igual que las variables de instancia.
+    //Se les asigna un valor determnaso igual que las com.variables de instancia.
     //Son guardadas en el heap
 
     //variable statica

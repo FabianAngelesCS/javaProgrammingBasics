@@ -4,7 +4,7 @@ public class VariableInstancia {
 
     //datos de clase fruta
 
-    //variables de instancia
+    //com.variables de instancia
     //los cambian de objeto a objeto
     //Se declaran afuera de cualquier metodo o bloque de codigo
     //JVm les asigna un valos predeterminado a emnos que se les asigene manualmente

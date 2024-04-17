@@ -5,7 +5,7 @@ public class ModificadoresAcceso {
     /*
 ----¿Cuaoles son los mofioficadores de acceso?----
 
-En Java, hay cuatro modificadores de acceso que se utilizan para controlar el acceso a clases, variables, métodos y
+En Java, hay cuatro modificadores de acceso que se utilizan para controlar el acceso a clases, com.variables, métodos y
 constructores en diferentes niveles de visibilidad dentro de un programa. Estos modificadores de acceso son:
 
 public:
