@@ -4,9 +4,7 @@ public class SubClaseHonda extends EjemploSuperClaseMoticicleta {
 
     private String modelo;
 
-    public String getModelo() {
-        return modelo;
-    }
+    public String getModelo() {return modelo;}
 
     //llmamaos a la super clase.
     public SubClaseHonda(String marca, int cilindraje, String modelo) {
