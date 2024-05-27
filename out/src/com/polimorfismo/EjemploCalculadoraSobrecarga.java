@@ -1,6 +1,6 @@
 package com.polimorfismo;
 
-public class EjemploCalculadoraPolimorfismo {
+public class EjemploCalculadoraSobrecarga {
 
     //Sobrecarga
 
@@ -21,7 +21,7 @@ public class EjemploCalculadoraPolimorfismo {
 
     public static void main(String[] args) {
         //Crear ina isntancia de la clase
-        EjemploCalculadoraPolimorfismo calculadora = new EjemploCalculadoraPolimorfismo();
+        EjemploCalculadoraSobrecarga calculadora = new EjemploCalculadoraSobrecarga();
 
         //Llamar al método sumar() pero con diferentes parametros
         System.out.println(calculadora.sumar(5,8));
