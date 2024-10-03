@@ -1,6 +1,6 @@
 package documentacion.leccionpaquetes;
 
-import com.segundopaqueteejemploleccion.Clase3;
+import documentacion.segundopaqueteejemploleccion.Clase3;
 
 public class Clase2 {
 

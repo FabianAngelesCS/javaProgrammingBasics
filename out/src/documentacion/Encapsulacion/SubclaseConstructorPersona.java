@@ -1,6 +1,6 @@
 package documentacion.Encapsulacion;
 
-import com.POOHerencia.Fabian;
+import documentacion.POOHerencia.Fabian;
 
 public class SubclaseConstructorPersona {
 

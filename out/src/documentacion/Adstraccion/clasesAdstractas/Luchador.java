@@ -3,6 +3,8 @@ package documentacion.Adstraccion.clasesAdstractas;
 public class Luchador extends Personaje {
 
     // Constructor que llama al constructor de la superclase
+
+
     public Luchador(String nombre, int edad) {
         super(nombre, edad);
     }

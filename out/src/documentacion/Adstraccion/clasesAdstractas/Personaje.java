@@ -9,12 +9,16 @@ public abstract class Personaje {
     private int edad;
 
     // Constructor para inicializar los atributos
+
+
     public Personaje(String nombre, int edad) {
         this.nombre = nombre;
         this.edad = edad;
     }
 
     // Getters y setters
+
+
     public String getNombre() {
         return nombre;
     }
@@ -32,5 +36,5 @@ public abstract class Personaje {
     }
 
     // Declaración de método abstracto
-    public abstract void habilidad();
+    public abstract void habilidad() throws IllegalArgumentException;
 }

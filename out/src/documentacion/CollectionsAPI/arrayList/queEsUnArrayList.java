@@ -38,7 +38,8 @@ Ventajas:
 Acceso rápido a elementos: Debido a su naturaleza de array, la operación get() es rápida.
 Crecimiento automático: El ArrayList ajusta automáticamente su tamaño cuando se agregan más elementos.
 Desventajas:
-Costoso en inserciones/eliminaciones intermedias: Las operaciones como inserción o eliminación en posiciones específicas pueden ser costosas, ya que requiere mover otros elementos para mantener el orden.
+Costoso en inserciones/eliminaciones intermedias: Las operaciones como inserción o eliminación en posiciones
+específicas pueden ser costosas, ya que requiere mover otros elementos para mantener el orden.
 Ejemplo básico:
 java
 Copiar código
@@ -68,6 +69,7 @@ public class EjemploArrayList {
         }
     }
 }
-ArrayList es ideal cuando se necesita un acceso rápido a los elementos y no se realizan muchas inserciones o eliminaciones en posiciones intermedias.
+ArrayList es ideal cuando se necesita un acceso rápido a los elementos y no se realizan muchas inserciones o
+eliminaciones en posiciones intermedias.
  */
 }
