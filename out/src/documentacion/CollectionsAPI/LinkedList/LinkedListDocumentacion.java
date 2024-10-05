@@ -1,6 +1,4 @@
 package documentacion.CollectionsAPI.LinkedList;
-
-public class LinkedListDocumentacion {
 /*
 LinkedList es una de las clases de la Collection Framework en Java, específicamente en el paquete java.util, que
 implementa la interfaz List y Deque (doble cola). Esta clase permite almacenar elementos en una lista enlazada
@@ -51,11 +49,22 @@ remove(int index)         // Elimina el elemento en el índice especificado.
 removeFirst()             // Elimina el primer elemento.
 removeLast()              // Elimina el último elemento.
 
-Ejemplo de uso de LinkedList:
+Ventajas de LinkedList:
+Inserción y eliminación rápidas: Cuando se trata de insertar o eliminar elementos en el medio o al principio, es mucho
+más eficiente que un ArrayList.
+Flexible:
+Al implementar tanto List como Deque, puede usarse como lista o como cola doble.
 
+Desventajas de LinkedList:
+Acceso más lento por índice: Acceder a un elemento en una posición específica es más lento comparado con un ArrayList,
+ya que se debe recorrer la lista hasta encontrar el índice deseado.
+Mayor consumo de memoria: Cada nodo en la LinkedList tiene referencias a los nodos adyacentes, lo que requiere más
+memoria que un ArrayList, donde solo se almacena el valor de los elementos.
+ */
+
+//Ejemplo de uso de LinkedList:
 import java.util.LinkedList;
-
-public class EjemploLinkedList {
+public class LinkedListDocumentacion {
     public static void main(String[] args) {
         LinkedList<String> lista = new LinkedList<>();
 
@@ -86,18 +95,4 @@ public class EjemploLinkedList {
             System.out.println(fruta);
         }
     }
-}
-
-Ventajas de LinkedList:
-Inserción y eliminación rápidas: Cuando se trata de insertar o eliminar elementos en el medio o al principio, es mucho
-más eficiente que un ArrayList.
-Flexible:
-Al implementar tanto List como Deque, puede usarse como lista o como cola doble.
-
-Desventajas de LinkedList:
-Acceso más lento por índice: Acceder a un elemento en una posición específica es más lento comparado con un ArrayList,
-ya que se debe recorrer la lista hasta encontrar el índice deseado.
-Mayor consumo de memoria: Cada nodo en la LinkedList tiene referencias a los nodos adyacentes, lo que requiere más
-memoria que un ArrayList, donde solo se almacena el valor de los elementos.
- */
 }
