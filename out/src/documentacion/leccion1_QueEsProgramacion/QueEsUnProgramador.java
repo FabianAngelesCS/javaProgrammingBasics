@@ -7,7 +7,7 @@ de programación, con el objetivo de automatizar tareas, resolver problemas comp
 software.
 
  */
-public class queEsUnProgramador {
+public class QueEsUnProgramador {
 
     public static void main(String[] args) {
         //Ejemplo de una instrucción dada a una computadora

@@ -16,7 +16,7 @@ reutilización de código.
 Una definición más completa podría ser algo como: "La programación es el acto de crear instrucciones precisas y lógicas
 que resuelven problemas"
  */
-public class queEsProgramacion {
+public class QueEsProgramacion {
     // Primer indicacion a una computadora...
     // Debe imprimir un texto por consola
     public static void main(String[] args) {
