@@ -1,4 +1,4 @@
-package documentacion.leccion4_queEsPrograma;
+package documentacion.leccion5_queEsPrograma;
 /*
 Un **programa en Java** es un conjunto de instrucciones escritas en el lenguaje de programación Java que la computadora
 puede ejecutar. Está compuesto por **clases**, **métodos** y otros elementos como variables y estructuras de control,
